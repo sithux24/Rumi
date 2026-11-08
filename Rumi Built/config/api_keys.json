@@ -1,0 +1,11 @@
+{
+    "gemini_api_key": "AQ.Ab8RN6I2famwkIMG3zTuRcFFaRn5kwQ_LcHkOJh-azS1FOnF5g",
+    "os_system": "windows",
+    "assistant_name": "Rumi",
+    "user_name": "sithum",
+    "ui_color": "#005dff",
+    "plugins_enabled": {
+        "student_assistant": false
+    },
+    "morning_brief_enabled": true
+}

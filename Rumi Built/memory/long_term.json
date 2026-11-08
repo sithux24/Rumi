@@ -1,0 +1,35 @@
+{
+  "identity": {
+    "language": {
+      "value": "Sinhala",
+      "updated": "2026-08-21"
+    }
+  },
+  "preferences": {
+    "normal_commands": {
+      "value": "accept commands without activation phrase",
+      "updated": "2026-08-21"
+    }
+  },
+  "projects": {
+    "add_features_to_rumi": {
+      "value": "planning customization features",
+      "updated": "2026-08-21"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {},
+  "sessions": [
+    {
+      "date": "2026-11-07",
+      "summary": "පරිශීලකයා පුවත් සිරස්තල ලබා ගැනීමට සහ අන්තර්ජාල සෙවුමක් සිදු කිරීමට උත්සාහ කළ අතර, එහිදී CPU උෂ්ණත්වය අධික ලෙස ඉහළ යාම පිළිබඳ අනතුරු ඇඟවීමක් ලබා දෙමින් සෙවුම සඳහා Chrome විවෘත කෙරිණි.",
+      "language": "Sinhala"
+    },
+    {
+      "date": "2026-11-07",
+      "summary": "සහායකයා විසින් Chrome හි Composio විවෘත කළ අතර, පරිගණකයේ CPU උෂ්ණත්වය සහ RAM භාවිතය අනතුරුදායක මට්ටමකට ඉහළ ගොස් ඇති බව පෙන්වා දෙමින් පද්ධති මතකය නිදහස් කරගන්නා ලෙස උපදෙස් දෙන ලදී.",
+      "language": "Sinhala"
+    }
+  ]
+}
